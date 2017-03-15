@@ -1,0 +1,4 @@
+$ mkdir jekyll_demo
+$ cd jeckyll_dem
+$ git init
+$ git checkout --orphan gh-pages
